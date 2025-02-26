@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    color: yellow;
+}
+
+canvas {
+    border: 2px solid white;
+}
